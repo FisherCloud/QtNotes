@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/filenew.png</file>
+        <file>images/fileopen.png</file>
+        <file>images/filesave.png</file>
+        <file>images/filesaveall.png</file>
+        <file>images/find.png</file>
+        <file>images/quit.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/fileclose.png</file>
+        <file>images/filesaveas.png</file>
+        <file>images/help.png</file>
+        <file>images/paste.png</file>
+        <file>images/revoke.png</file>
+        <file>images/notes.png</file>
+    </qresource>
+</RCC>
